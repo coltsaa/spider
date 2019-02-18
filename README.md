@@ -8,3 +8,5 @@ this repository is used to save the spiders that i used to create
 `update1.2`:add picspider.py,searching pics from website
 
 `update1.3`:add spider.py to download the message about films
+
+`update1.4`:add baidu project which is used for word translate
