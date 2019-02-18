@@ -1,4 +1,6 @@
 # spider
 this repository is used to save the spiders that i used to create
 
-`update`:ver1.0,add bilibili.py,is used to get the comment data
+`update1.0`:add bilibili.py,is used to get the comment data
+
+`update1.1`:add demospider.py,which usage is for downloading novels from website
