@@ -1,4 +1,6 @@
+# !/usr/bin/env python
 # -*- coding:utf-8 -*-
+# @author:'EiJi'
 import urllib2,urllib
 import re
 
